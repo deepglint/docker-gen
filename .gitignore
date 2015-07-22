@@ -1,3 +1,5 @@
 docker-gen
 dist
 *.gz
+
+*.arm
